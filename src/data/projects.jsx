@@ -19,14 +19,12 @@ import React from "react";
 export const projects = [
   {
     id: 1,
-    link: "https://stay-safe-seven.vercel.app/",
+    link: "https://midnightblue-dunlin-276630.hostingersite.com/",
     pic: "staysafe.png",
-    heading: "Stay Safe, Find A Hostel",
-    discr: "A Hostel Booking System",
+    heading: "CliqueZorg | Medical Knowledge",
+    discr: "Medical Articles",
     tags: [
       { name: "Mongo", icon: <SiMongodb color="#47A248" /> },
-      { name: "Nextjs", icon: <RiNextjsLine color="#FFFFFF" /> },
-      { name: "Tailwind", icon: <RiTailwindCssFill color="#06B6D4" /> },
     ],
   },
   {
