@@ -1,13 +1,14 @@
 import React from "react";
 import Heading from "../Components/Heading";
 import SkillCard from "../Components/SkillCard";
-import { FaGithub, FaHtml5 } from "react-icons/fa";
+import { FaGithub, FaHtml5, FaFigma } from "react-icons/fa"; // <-- Yahan FaFigma add kiya hai
 import { IoLogoCss3 } from "react-icons/io5";
 import { SiWordpress, SiElementor, SiGutenberg, SiGooglemarketingplatform } from "react-icons/si";
 
 const skills = [
   { logo: <SiWordpress />, title: "WordPress", disc: "CMS Platform", color: "#21759B" },
   { logo: <SiElementor />, title: "Elementor", disc: "Page Builder", color: "#D30C5C" },
+  { logo: <FaFigma />, title: "Figma", disc: "UI/UX Design Tool", color: "#F24E1E" }, // <-- Nayi Skill
   { logo: <SiGutenberg />, title: "Gutenberg", disc: "Block Editor", color: "#007CBA" },
   { logo: <SiGooglemarketingplatform />, title: "Lead Generation", disc: "Sales & Growth", color: "#4285F4" },
   { logo: <FaHtml5 />, title: "HTML5", disc: "Web Structuring", color: "#E34F26" },
