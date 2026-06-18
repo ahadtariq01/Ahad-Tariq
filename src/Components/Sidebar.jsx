@@ -43,7 +43,7 @@ function Sidebar() {
         {/* Bio */}
         <div className="lg:mt-2">
           <p className="font-medium leading-7 text-gray-500 text-center text-xl">
-            A <span className="text-white/80">Wordpress Developer</span> A WordPress Developer who has crafted countless stunning websites.
+            A <span className="text-white/80">Wordpress Developer</span> who has crafted countless stunning websites.
           </p>
         </div>
 
