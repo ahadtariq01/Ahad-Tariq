@@ -20,7 +20,7 @@ export const projects = [
   {
     id: 1,
     link: "https://midnightblue-dunlin-276630.hostingersite.com/",
-    pic: "staysafe.png",
+    pic: "cliquezorg.png",
     heading: "CliqueZorg | Medical Knowledge",
     discr: "Medical Articles",
     tags: [
