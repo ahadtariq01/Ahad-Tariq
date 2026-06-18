@@ -5,12 +5,12 @@ import { CiLinkedin } from "react-icons/ci";
 const socialLinks = [
   {
     Icon: FaGithub,
-    href: "https://github.com/Abdullah-warraich-ch",
+    href: "https://github.com/ahadtariq01",
     hoverColor: "#e6edf3",
   },
   {
     Icon: CiLinkedin,
-    href: "https://www.linkedin.com/in/muhammad-abdullah-949b26195/",
+    href: "https://www.linkedin.com/in/abdul-ahad-023958370/",
     hoverColor: "#0A66C2",
   },
 ];
@@ -43,8 +43,7 @@ function Sidebar() {
         {/* Bio */}
         <div className="lg:mt-2">
           <p className="font-medium leading-7 text-gray-500 text-center text-xl">
-            A <span className="text-white/80">Software Engineer</span> who has
-            developed countless innovative solutions.
+            A <span className="text-white/80">Wordpress Developer</span> A WordPress Developer who has crafted countless stunning websites.
           </p>
         </div>
 
