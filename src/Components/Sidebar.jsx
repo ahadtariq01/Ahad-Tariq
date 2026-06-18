@@ -35,7 +35,7 @@ function Sidebar() {
         {/* Name */}
         <div className="text-center">
           <h1 className="font-poppins font-bold text-3xl text-white">
-            Abdullah
+            Ahad Tariq
           </h1>
           <div className="h-0.5 w-10 bg-orange-500 rounded-full mx-auto mt-2" />
         </div>
