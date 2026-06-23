@@ -70,6 +70,16 @@ export const projects = [
   }, // <--- Yeh comma lagana boht zaroori hai naye project se pehle!
   {
     id: 6,
+    link: "https://value-fabric.com/",
+    pic: "tradex.png",
+    heading: "ValueFabric",
+    discr: "Operating Intelligence",
+    tags: [
+     { name: "Gutenburg", icon: "" },
+    ],
+  }, // <--- Yeh comma lagana boht zaroori hai naye project se pehle!
+  {
+    id: 7,
     link: "https://whitesmoke-mole-377965.hostingersite.com/",
     pic: "tidwell.png",
     heading: "Tidwell",
